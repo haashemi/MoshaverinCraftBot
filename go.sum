@@ -1,0 +1,8 @@
+github.com/LlamaNite/llamalog v0.2.1 h1:k9XugHmyQqJhCrogca808Jl2rrEKIWMtWyLKX+xX9Mg=
+github.com/LlamaNite/llamalog v0.2.1/go.mod h1:zopgmWk8utZPfZCPa/uvQkv99Lan3pRrw/9inbIYZeo=
+github.com/haashemi/tgo v1.10.0 h1:UD0n3ZDHda4ml1w6FQFRhIZBWgQR1SyPqPgnG2qrb3w=
+github.com/haashemi/tgo v1.10.0/go.mod h1:alQJrGVsxHg6wU1CJSVuIyRXKWdHuIJNYzDU1d9LWuU=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
